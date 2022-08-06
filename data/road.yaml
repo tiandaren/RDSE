@@ -1,0 +1,17 @@
+train: 2007_train.txt
+val: 2007_val.txt
+test: my_dataset/ImageSets/Main/test.txt
+
+# Classes
+nc: 9 # number of classes
+names: ['D00', 'D01', 'D10', 'D11', 'D20', 'D40', 'D60', 'D44', 'D50']  # class names
+#names: ['D00',  'D10', 'D20', 'D40']  # class names
+#纵向裂缝
+#纵向施工裂缝
+#横向裂缝
+#横向施工裂缝
+#龟裂
+#坑洼
+#标志线模糊
+#井盖
+#车辙
