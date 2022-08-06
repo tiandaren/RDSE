@@ -13,6 +13,12 @@ You need to install:
   pip3 install -r requirements.txt
   ```
 
+- The weight file can be downloaded here
+
+  ```
+  链接: https://pan.baidu.com/s/1IxRpyHEzMknZtiC2HZS1sA 提取码: kq8m 
+  ```
+
 ## Detection 
 
 1. Go to `yolov5` directory
